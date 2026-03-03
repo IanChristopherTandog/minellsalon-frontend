@@ -1,6 +1,6 @@
 # Minell's Hair, Nail & Lashes Salon - Appointment System
 
-A modern, web-based appointment booking and management system built for Minell's Salon. This application is a recreation of an original capstone project, rebuilt from the ground up using contemporary frameworks and technologies to demonstrate modern web development best practices. This provides a complete solution for clients to book appointments and for administrators to manage services, staff, and business operations.
+A modern, web-based appointment booking and management system built for Minell's Salon. This application is a recreation of an original capstone project, rebuilt from the ground up using modern frameworks and technologies to demonstrate modern web development best practices. This provides a complete solution for clients to book appointments and for administrators to manage services, staff, and business operations.
 
 ## 🎨 Project Overview
 
@@ -33,8 +33,8 @@ A modern, web-based appointment booking and management system built for Minell's
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/IanChristopherTandog/minellsalon-frontend.git
+cd salon-frontend
 
 # Install dependencies
 npm install
