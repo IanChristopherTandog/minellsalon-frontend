@@ -27,7 +27,7 @@ This document describes the high-level architecture of the Minell's Salon appoin
 │  └─────────────────────────────────────────────────────┘   │
 │                           │                                  │
 │                    Mock Data (current)                       │
-│                    Supabase (future)                        │
+│                    Springboot (future)                       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
