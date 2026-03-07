@@ -91,9 +91,7 @@ src/
 Currently using mock data. When integrating a backend:
 
 ```env
-VITE_API_URL=your-api-endpoint
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-supabase-key
+VITE_API_URL= https://localhost:4100
 ```
 
 ## 📜 Available Scripts
